@@ -1,0 +1,6 @@
+﻿  3B.cpp
+C:\Users\Katerine\Documents\3B\3B\3B.cpp(244,49): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Katerine\Documents\3B\3B\3B.cpp(277,50): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Katerine\Documents\3B\3B\3B.cpp(282,49): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Katerine\Documents\3B\3B\3B.cpp(318,50): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  3B.vcxproj -> C:\Users\Katerine\Documents\3B\x64\Debug\3B.exe
